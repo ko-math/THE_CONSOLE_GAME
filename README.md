@@ -1,7 +1,7 @@
 # CONSOLE_GAME
 ## HELLO.
- Hi, everyone.
- I created a game - The Console Game!!!
- You have to solve problems.
+ Hi, everyone. <br>
+ I created a game - The Console Game!!! <br>
+ You have to solve problems. <br>
  ENJOY IT!
  
